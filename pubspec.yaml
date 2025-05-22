@@ -36,15 +36,19 @@ dependencies:
   flutter_launcher_icons: ^0.14.3
   animated_text_kit: ^4.2.2
 
+
+  path_provider: ^2.1.1
+  http: ^0.13.5
+  open_file: ^3.3.1
+
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
   vector_math: ^2.1.4
   animate_do: ^4.2.0
-  permission_handler: ^10.4.5
   shared_preferences: ^2.5.3
   audioplayers: ^6.4.0
-  ar_flutter_plugin: ^0.7.3
+  ar_flutter_plugin_2: ^0.0.3
 
 dev_dependencies:
   flutter_test:

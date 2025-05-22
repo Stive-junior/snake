@@ -28,7 +28,7 @@ android {
         versionName = flutter.versionName
 
         ndkVersion = "29.0.13113456"
-        minSdk = 24
+        minSdk = 28
         targetSdk = 35
     }
 
@@ -40,6 +40,7 @@ android {
         }
     }
 }
+
 
 flutter {
     source = "../.."

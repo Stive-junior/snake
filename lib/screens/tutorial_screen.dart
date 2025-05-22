@@ -19,19 +19,19 @@ class _TutorialScreenState extends State<TutorialScreen> {
       'title': 'Bienvenue dans Snakegame !',
       'content':
           'Glissez votre doigt sur l\'écran pour diriger le serpent dans le monde réel capturé par votre caméra.',
-      'imagePath': 'assets/images/tutorial_swipe.png',
+      'imagePath': 'fonts/logo.jpg',
     },
     {
       'title': 'Mangez pour grandir',
       'content':
           'Guidez le serpent vers la nourriture lumineuse qui apparaît dans votre environnement pour le faire grandir et augmenter votre score.',
-      'imagePath': 'assets/images/tutorial_eat.png',
+      'imagePath': 'fonts/logo.jpg',
     },
     {
       'title': 'Attention aux collisions !',
       'content':
           'Évitez de heurter les bords de l\'espace de jeu virtuel ou votre propre corps. Une collision mettra fin à votre aventure.',
-      'imagePath': 'assets/images/tutorial_collide.png',
+      'imagePath': 'fonts/logo.jpg',
     },
     {
       'title': 'Explorez les paramètres',
